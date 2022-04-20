@@ -1,0 +1,1 @@
+Write a program to remove white space from String

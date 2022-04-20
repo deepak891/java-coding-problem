@@ -1,0 +1,1 @@
+Write a program that count duplicate character from String
