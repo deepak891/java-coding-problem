@@ -1,6 +1,6 @@
-# java-coding-problem
 
-Java Problems
+
+# Java Problems
 ===============
 String numbers and Math
 1 Counting duplicate characters: Write a program that counts duplicate characters from a given string
